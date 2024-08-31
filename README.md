@@ -1,0 +1,1 @@
+# kde-install-astralinux
