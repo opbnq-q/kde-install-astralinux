@@ -5,7 +5,8 @@
 После этого в меню ```тип сессии``` выбрать ```plasma(x)```. Исправить переменные GRUB_DEFAULT и GRUB_TIMEOUT в /etc/default/grub на 0 и 1 соответственно: ```sudo nano /etc/default/grub```
 
 
-#startx running ```
+#startx running
+```
 dpkg --configure -a
 sudo apt upgrade 
 startx 
