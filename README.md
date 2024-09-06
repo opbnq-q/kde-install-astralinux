@@ -25,7 +25,8 @@ deb https://dl.astralinux.ru/astra/stable/1.7_x86-64/repository-extended/ 1.7_x8
 deb https://dl.astralinux.ru/astra/stable/1.7_x86-64/repository-extended/ 1.7_x86-64 astra-ce
 
 #deb https://download.astralinux.ru/astra/stable/1.7_x86-64/uu/last/repository-update/ 1.7_x86-64 main contrib non-free
+```
 
 # printer drivers 
-'''global.pantum.com/support/download/driver'''
+```global.pantum.com/support/download/driver```
 
